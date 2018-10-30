@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Суть услуги
   url: "/getting-started/"
   side: left
 
@@ -70,6 +70,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Контакты"
   url: "/contact/"
   side: right
